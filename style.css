@@ -9,6 +9,7 @@ h2{
     font-size: 40px;
 }
 p{
+    line-height: 1.6;
     color: dimgray;
 }
 .orange-highlight{
